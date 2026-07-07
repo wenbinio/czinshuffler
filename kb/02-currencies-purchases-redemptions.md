@@ -1,65 +1,70 @@
 # Shuffle.us — Currency Economy: GC/SC, Purchases, Redemptions, KYC
 
 > Part of the Shuffle.us knowledge base. See [README](../README.md) for index and sourcing notes.
-> Confidence markers: ✅ confirmed · 🟡 likely (single source) · ❓ unverified/conflicting.
+> **Verified 2026-07-07 against primary sources**: [Sweepstakes Rules](legal/sweepstakes-rules.md), [Terms of Service](legal/terms-of-service.md) (last modified June 2026), and the [help-center mirror](help-center/INDEX.md). ✅P = primary-source confirmed.
 
 ## Dual-currency model
 
 ### Gold Coins (GC)
-- Free-play currency; **no cash value, never redeemable**. ✅
-- Obtained via: welcome bonus, daily login, gameplay wins, purchases (GC bundles). ✅
+- Free-play currency; no cash value, never redeemable for prizes — GC can only be redeemed for more GC. ✅P
+- Obtained via: welcome bonus, daily bonus, gameplay wins, purchases. All GC purchases are final, no refunds. ✅P
 
-### Shuffle Cash (SC)
-- Sweepstakes-entry currency; the **only** redeemable currency. ✅
-- Cannot be bought directly — included free as a bonus with GC purchases (the legal cornerstone of the sweepstakes model). ✅
-- Value: **1 SC ≈ $1 USD** at redemption. ✅
-- Obtained via: welcome bonus, daily login streak, purchase bundles, referrals, races, social giveaways, AMOE mail-in, bonus drops. ✅
+### Shuffle Cash (SC, also "Sweeps Cash" in the rules)
+- Sweepstakes-entry currency; the only redeemable currency; **can never be purchased** — only granted free. ✅P
+- Each SC won through gameplay redeems for a prize valued at **$1 USD**. ✅P
+- Ways to collect (per rules): bonus with marked GC packs, account-creation bonus, daily bonus, mail-in AMOE, promotions/giveaways, affiliate commissions. ✅P
+- SC expiry: see help article [Does Shuffle Cash expire?](help-center/faq/does-shuffle-cash-expire.md).
 
 ## Purchases
 
-| Fact | Status | Source |
+| Fact | Detail | Source |
 |---|---|---|
-| Packages start ~$4.99–$5 (e.g., $5 pack ≈ 5 SC bundled) | 🟡 | [Deadspin](https://deadspin.com/sweepstakes-casinos/reviews/shuffle-us/real-money/) |
-| Fiat methods: Visa, Mastercard, Discover, Amex, Apple Pay, Google Pay, ACH | 🟡 | [thespike.gg](https://www.thespike.gg/reviews/shuffle/payment-methods) |
-| Crypto methods: BTC, ETH, LTC, USDT, USDC, TRX, SOL, DOGE, SHIB + more (19+ total) | ✅ | [SportsGambler](https://www.sportsgambler.com/review/shuffle/payment-methods/), VIP-Grinders |
-| Daily purchase cap ~$9,000/day | ❓ single source | [TheGameDay](https://thegameday.com/sweepstakes-casinos/shuffle-us/) |
-| Purchase-delay issues acknowledged (help article "Why hasn't my purchase arrived?") | ✅ article exists | [help.shuffle.us/…/11882060](https://help.shuffle.us/en/articles/11882060-why-hasn-t-my-purchase-arrived) |
+| Payment modes | Account operates in **Fiat mode or Crypto mode**; the mode used affects redemption rails | ✅P [help](help-center/payments/understanding-payment-modes-on-shuffle-us.md) |
+| Fiat daily purchase limit | **$9,000/day** (rolling 24h); excess spills to following days | ✅P [help](help-center/payments/understanding-your-account-s-purchase-limit.md) |
+| Crypto purchase limit | **None** | ✅P |
+| Purchase fees | **Zero** from Shuffle.us (any FX/foreign-transaction fees are from intermediaries) | ✅P [help](help-center/payments/purchase-fees.md) |
+| Supported crypto | BTC, ETH (also BEP20/BASE), LTC, USDT (ERC20/BEP20/TRC20/POL), USDC (ERC20/BEP20/SOL/POL/ARB/BASE), TRX, POL, XRP, SOL, DOGE, BNB, AVAX, TON, SHIB | ✅P [help](help-center/payments/supported-crypto-assets-and-chains.md) |
+| Package prices | Start ~$4.99–$5 | 🟡 aggregator only |
 
 ## Redemptions
 
-- **Minimum: 100 SC (= $100)** per redemption. ✅ [Deadspin](https://deadspin.com/sweepstakes-casinos/reviews/shuffle-us/redemptions/), [Phandroid](https://phandroid.com/sweepstakes/shuffle-us/redemption/)
-- **Playthrough: 1x** — SC must be wagered once before redemption-eligible. ✅
-- **Method: crypto payout** (select coin → enter SC amount → submit). No ACH redemption confirmed in currency-focused sources (one earlier source mentioned ACH — ❓ conflicting; verify). 🟡
-- **Processing time: conflicting** — 24–48h per one source; 24h–10 days per another, with extra verification above 2,000 SC. Treat as 1–10 days depending on amount. ❓
-- **Cap: up to 500,000 SC per redemption** (🟡). A cited "Florida 5,000 SC/day cap" contradicts Florida appearing on the excluded-states list — likely stale/conflated. ❓
-- **Level 2 KYC required before first redemption.** ✅
+| Rule | Detail | Source |
+|---|---|---|
+| Minimum | **$100 / 100 SC** ("Minimum Redemption amount $100.00 USD, or equivalent cryptocurrency value at time of quotation") | ✅P rules; help center states the 100 SC minimum for fiat redemptions |
+| Playthrough | **1x** — SC must be played at least once before redemption. Applies to purchase-bundle SC, bonuses, bonus drops, tournament prizes. **Affiliate-commission SC is exempt.** New bundle SC adds to outstanding rollover. | ✅P [help](help-center/payments/how-much-can-i-redeem-and-how-to-check-my-progress.md) |
+| Rails | **Bank transfer (ACH)** in Fiat mode, **crypto** in Crypto mode — you redeem in the currency of your **most recent purchase** | ✅P [help](help-center/payments/redemption-limits-and-requirements.md) |
+| Caps | Fiat: **100,000 SC per rolling 24h**. Crypto: **no limits**. Florida: **5,000 SC/day** (resets 5AM UTC) | ✅P |
+| KYC gate | **Level 2 verification required** for card/bank redemption (and prize redemption generally) | ✅P |
+| Timing (ACH) | ~1 business day; instant ACH (when bank supports) a couple hours; business days only; contact support after 4 business days | ✅P [help](help-center/payments/how-long-will-my-bank-transfer-take.md) |
+| Payout destination | Rules: paid to the same financial account/wallet used for GC purchase (or nominated alternative if technically impossible); Shuffle may require same-method redemption | ✅P rules |
+| Prohibitions | Automated/systematic play to win or redeem → account closure + SC forfeiture | ✅P rules |
 
-## KYC / verification tiers
+## KYC / verification
 
-| Tier | Trigger | Requirements | Status |
-|---|---|---|---|
-| Level 1 | Signup (all users) | Name, DOB, country/phone — no documents; needed to play and purchase | ✅ [help article](https://help.shuffle.us/en/articles/11882034-how-can-i-verify-my-account) |
-| Level 2 | Redemption, large withdrawal, risk flags | Government photo ID (license/ID/passport) + proof of address (utility bill, bank statement, lease, etc.) | ✅ [CasinosBlockchain](https://casinosblockchain.io/shuffle-casino-kyc-guide/) |
-| Level 3 | Larger redemptions (e.g., >2,000 SC) | Enhanced checks: ID photo on flat surface, source-of-funds/wealth docs | 🟡 |
-
-- KYC is **discretionary/risk-based** — documents can be requested at any time. ✅
+- **Level 1** (needed to play, purchase, and claim welcome/daily bonuses): basic info/phone declaration, done at [shuffle.us/settings/verify](https://shuffle.us/settings/verify). ✅P
+- **Level 2** (needed to redeem prizes): per rules, may include government photo ID, **biometric facial scan recognition**, proof of address, and **SSN validation**. ✅P
+- KYC is discretionary — Sponsor may require verification at any time to validate eligibility. ✅P
+- Full details: [help-center/account-verification/](help-center/INDEX.md).
 
 ## Account rules
 
-- **Age: 18+**, or 21+ where the state's age of majority is higher. ✅ [shuffle.us/info/terms](https://shuffle.us/info/terms)
-- **One account per person** — duplicates risk suspension of all accounts and prize forfeiture. ✅
-- **VPN use disallowed**; geolocation enforced. ✅
+- **Age**: 18+ or the age of majority in your jurisdiction, whichever is later. ✅P rules
+- **Eligibility**: legal resident of AND physically located in a Permitted Territory (see [05-legal-compliance](05-legal-compliance.md) — the two primary sources disagree on the exact list). ✅P
+- **One account per person**; violations risk forfeiture and deactivation. ✅P
+- Shuffle.us is **not a financial institution** — SC/GC balances are not deposits and earn no interest ([help article](help-center/general-information/shuffle-us-is-not-a-financial-institution.md)). ✅P
 
-## Free (no-purchase) entry methods
+## Free (no-purchase) entry methods — all ✅P
 
-1. **Daily login**: escalating 7-day streak, ~5,000 GC + 0.3 SC (day 1) → 25,000 GC + 1 SC (day 7); ≈90,000 GC + 4.4 SC per full week. 🟡 (dailies confirmed by [help article](https://help.shuffle.us/en/articles/12173977-daily-bonuses-everything-you-need-to-know); exact figures aggregator-sourced)
-2. **AMOE mail-in**: generate a unique code on-site daily, hand-write it with required phrasing on a postcard, mail to company HQ → **3 SC per accepted entry**. 🟡
-3. **Bonus drops**: periodic promo codes ([help article](https://help.shuffle.us/en/articles/11882126-bonus-drops-and-how-to-redeem-them)). ✅ mechanism exists
-4. **Social giveaways & races**: named but underdocumented. ❓
-5. **Referrals**: SC for referring new users. 🟡
+1. **Welcome bonus**: 25,000 GC + 1 SC after email + Level-1 verification (claimed via popup modal; check the VIP page if missing). [help](help-center/vip-and-bonuses/shuffle-us-welcome-bonus.md)
+2. **Daily bonus**: issued daily 5AM UTC / 1AM ET to all L1-verified players, in Wallet → Daily Bonus. Streak escalates the amount; **after 7 days it plateaus at 0.4 SC + 25,000 GC per day and does not reset as long as the streak is maintained**. [help](help-center/vip-and-bonuses/daily-bonuses-everything-you-need-to-know.md)
+3. **AMOE mail-in — 2 SC per valid Request Card** (rules; the AMOE page references a 2.00 SC offer requiring an on-site one-time 12-digit code):
+   - 4"×6" unfolded, blank, unlined postcard/white paper inside a stamped **#10 envelope**, addressed **in handwriting** to: **Munyon Canyon Limited, PO Box 9461, Portland ME 04104**.
+   - Envelope front: handwritten return address + the words "Sweepstakes Entries".
+   - Card (one side only, handwritten): full legal name (as on government ID), registered email, username, the prescribed consent statement, then **signature + date (MM/DD/YYYY)** immediately beneath.
+   - One card per envelope; no packages/parcels; must be **posted from the same state as your verified residential address**; illegible handwriting voids the entry (Shuffle's sole discretion).
+4. **Bonus drops**: promo codes distributed via socials. [help](help-center/vip-and-bonuses/bonus-drops-and-how-to-redeem-them.md)
+5. **Account-creation bonus** (distinct from welcome-bonus marketing offer, per rules list).
 
-## Open items
+## Support
 
-- [ ] Resolve ACH-redemption question (crypto-only vs ACH option) against primary sources.
-- [ ] Confirm processing-time SLA and >2,000 SC enhanced-verification threshold.
-- [ ] Confirm AMOE mailing address and exact postcard requirements from sweepstakes rules.
+- Live chat on shuffle.us; email **support@shuffle.us**. ✅P (nav link and help-article contact references)

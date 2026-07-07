@@ -1,43 +1,57 @@
 # Shuffle.us — Promotions, Bonuses & VIP Program
 
 > Part of the Shuffle.us knowledge base. See [README](../README.md) for index and sourcing notes.
-> Confidence markers: ✅ confirmed · 🟡 likely (single source) · ❓ unverified.
+> **Verified 2026-07-07 against the [help-center mirror](help-center/INDEX.md)** (13 articles in VIP and Bonuses). ✅P = primary-source confirmed · 🟡 = secondary source only.
 
-## Welcome / no-purchase signup bonus
+## Welcome bonus
 
-- **25,000 GC + 1 SC** on signup + email verification, no purchase required. ✅ (consistent across many independent affiliate sources: [VegasInsider](https://www.vegasinsider.com/sweepstakes-casinos/shuffle-us/), [Insider Gaming](https://insider-gaming.com/shuffleus-no-deposit/))
-- No promo code strictly required for the base offer; affiliate codes (`SKINGS`, `VIBONUS`, `SMPBONUS`, `VIPGRINDERS`) are marketed as unlocking it or variants. 🟡
-- Offer size varies by referral source/time — 8,000 GC + 1 SC and 50,000 GC + 1 SC variants have both been advertised. ❓
-- **No first-purchase match bonus** exists as of research date (July 2026). 🟡 [Insider Gaming](https://insider-gaming.com/shuffleus-no-deposit/)
+- **25,000 GC + 1 SC**, free, after email verification + Level-1 verification; claimed via on-site modal (check the VIP page if it doesn't appear). ✅P [help](help-center/vip-and-bonuses/shuffle-us-welcome-bonus.md)
+- Affiliate promo codes (`SKINGS`, `VIBONUS`, etc.) circulate for the same/variant offers. 🟡
+- No first-purchase match bonus observed. 🟡
 
-## Recurring promotions
+## Daily bonus
 
-| Promo | Details | Status | Source |
-|---|---|---|---|
-| Daily login bonus | Progressive 7-day cycle: ~5,000 GC + 0.3 SC (day 1) → 25,000 GC + 1 SC (day 7), then resets | 🟡 | [Deadspin](https://deadspin.com/sweepstakes-casinos/reviews/shuffle-us/daily-login-bonus/) |
-| Daily GC race | 50,000,000 GC prize pool, 00:00–23:59 UTC, wagering-volume leaderboard, top 100 paid | 🟡 | [Deadspin](https://deadspin.com/sweepstakes-casinos/news/is-shuffle-us-the-hidden-gem-of-sweepstakes-casinos/) |
-| Weekly SC race | 10,000 SC prize pool, top 50 paid | 🟡 | Deadspin |
-| Challenges | Dedicated on-site page (`shuffle.us/challenges`) with weekly game-specific tasks for GC/SC | ✅ page exists | — |
-| Social/Telegram code drops | Ad-hoc bonus codes (e.g., 10,000 GC + 1 SC) via Telegram/X/Instagram/Facebook | 🟡 | [Deadspin](https://deadspin.com/sweepstakes-casinos/reviews/shuffle-us/promo-code/) |
-| Monthly bonus | "Shuffle Monthly Bonus" referenced by review sites; mechanics not captured | ❓ | [thespike.gg](https://www.thespike.gg/reviews/shuffle/monthly-bonus) |
+- Issued **daily at 5AM UTC / 1AM ET** to all ranks; only requirement is Level-1 verification. Found under Wallet → Daily Bonus. ✅P
+- Streak-based escalation; **after 7 days the daily amount is 0.4 SC + 25,000 GC and it does not reset while the streak is maintained**. ✅P [help](help-center/vip-and-bonuses/daily-bonuses-everything-you-need-to-know.md)
+- (Aggregator claims of "resets after day 7" and "1 SC on day 7" are contradicted by the primary source.)
 
-## VIP / loyalty program
+## VIP program (all ✅P unless noted)
 
-- Free to join; progression via XP from gameplay. 🟡
-- **Tier names** (🟡): Wood, Bronze, Silver, Gold, Platinum, Jade, Sapphire, Ruby, Diamond — each reportedly split into 5 milestones. Tier count conflicts across sources (9 tiers vs "12 tiers / 56 levels"). ❓ count
-- **Rakeback**: instant rakeback from Bronze tier, percentage scales with VIP level and wagered volume. 🟡
-- Other perks: weekly/monthly bonuses, level-up and rank-up bonuses, dedicated VIP host (Bronze+), exclusive "Shuffle Events". 🟡
-- Sources: [shuffle.us/vip-program](https://shuffle.us/vip-program), [thespike.gg VIP review](https://www.thespike.gg/reviews/shuffle/vip-program)
+Source articles: [VIP progress](help-center/vip-and-bonuses/how-to-calculate-your-vip-progress.md), [level-up bonuses](help-center/vip-and-bonuses/shuffle-us-vip-level-up-bonuses.md), [rakeback](help-center/vip-and-bonuses/what-is-rakeback-how-it-works-and-how-to-get-it.md), [weekly/monthly calculation](help-center/vip-and-bonuses/how-are-the-weekly-and-monthly-bonuses-calculated.md), [reloads](help-center/vip-and-bonuses/what-is-a-reload-how-it-works-and-what-are-the-ways-to-get-it.md).
 
-## Referral / affiliate & social
+### XP model
+- **1 SC played = 1 XP**; **2,000,000 GC played = 1 XP**. Lifetime XP shown on the account settings page.
 
-- Affiliate program page live at `shuffle.us/affiliate`. ✅
-- Published commission math (base 10% rate; casino commission = House Edge × Wagered × Rate / 2; sportsbook 3% of wager) is documented for **Shuffle.com** — whether identical terms apply to Shuffle.us is ❓. [shuffle.com/affiliate](https://shuffle.com/affiliate)
-- Active social channels for giveaways/code drops: X, Instagram, Facebook, Telegram. 🟡 Discord officiality unconfirmed. ❓
-- Outsized claim of "up to 500,000 GC + 50 SC for following socials" circulates on affiliate sites — treat with caution. ❓
+### Tier ladder (XP thresholds, from the primary article)
+- **Wood**: 500 XP (single level)
+- **Bronze 1–5**: 1,000 / 2,000 / 3,000 / 4,000 / 5,000 XP
+- **Silver 1–5**: 10,000 / 20,000 / 30,000 / 40,000 / 50,000 XP
+- Higher ranks continue (Gold, Platinum, Jade, Sapphire, Ruby, Diamond, each in 5 levels) up to **Diamond 5 at 37,000,000 XP**. Full table in the mirrored article.
+
+### Perks by rank
+| Perk | Unlocks at | Detail |
+|---|---|---|
+| Rakeback | **Bronze 1** | **5% of house edge returned**, all games, both GC and SC play, win or lose; claim on the VIP page |
+| Weekly bonus | **Bronze 1** | Issued **Thursdays 3PM UTC** |
+| Monthly bonus | **Silver 1** | Issued **first Friday of each month, 4AM UTC** |
+| Weekly reloads | **Sapphire** | Arranged through your **VIP Host** (choice of plans) |
+| Level-up bonuses | Every level | Per the level-up bonuses article |
+
+## Other recurring mechanics
+
+- **Challenges**: on-site tasks ([help](help-center/vip-and-bonuses/how-do-challenges-work.md)). ✅P
+- **Tournaments**: with prizes; tournament-prize SC carries 1x playthrough ([help](help-center/vip-and-bonuses/how-do-tournaments-work.md)). ✅P
+- **Bonus drops**: promo-code drops via socials ([help](help-center/vip-and-bonuses/bonus-drops-and-how-to-redeem-them.md)). ✅P
+- **Top-up bonus** ([help](help-center/vip-and-bonuses/what-is-a-top-up-bonus.md)). ✅P
+- Leaderboard prizes (see [FAQ](help-center/faq/where-can-i-find-my-leaderboard-prize.md)). ✅P
+- Daily GC race (50M GC pool, top 100) and weekly SC race (10,000 SC pool, top 50). 🟡 aggregator-reported; not found in help center — verify on-site.
+
+## Referral / affiliate
+
+- **Shuffle.us Affiliate Program** — dedicated help collection (4 articles, [mirror](help-center/INDEX.md)); **affiliate-commission SC has no playthrough requirement**. ✅P
+- Commission structure specifics for .us not stated in mirrored articles; Shuffle.com's published math (10% base rate) may not apply. ❓
 
 ## Open items
 
-- [ ] Confirm VIP tier count and rakeback percentages against shuffle.us/vip-program.
-- [ ] Capture Monthly Bonus mechanics.
-- [ ] Confirm official Discord.
+- [ ] Capture the full level-up bonus table and weekly/monthly bonus formulas into a summary (already mirrored verbatim under help-center/).
+- [ ] Verify daily/weekly race mechanics on-site (promotions pages are behind JS rendering).

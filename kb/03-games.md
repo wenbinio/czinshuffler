@@ -34,7 +34,13 @@ Core list (🟡): Dice, Mines, Plinko, Limbo, Keno, Baccarat, Blackjack, Chicken
 
 Specific slot RTPs quoted by affiliates (Book of 99: 99%, Jackpot 6000: 98.90%, 888 Gold: 97.52%) are the industry-generic RTPs for those titles, **not** Shuffle.us-published figures. ❓
 
+## Primary-source notes (added 2026-07-07)
+
+- Help center documents at least two Originals in detail: **Blitz** ([FAQ mirror](help-center/faq/blitz-game-information-shuffle-original.md)) and **Blackjack** ([FAQ mirror](help-center/faq/shuffle-originals-blackjack-game-information.md)). ✅P
+- Per-game **house edge is disclosed on-site** ([FAQ: where to find the edge](help-center/faq/where-can-i-find-the-edge-of-the-game.md)); a 5-article **Provable Fairness** help collection covers the fairness system ([mirror](help-center/INDEX.md), [policy page](legal/provably-fair.md)). ✅P
+- "Free Play" mode exists ([FAQ mirror](help-center/faq/free-play.md)). ✅P
+
 ## Open items
 
-- [ ] Verify live provider list and exact game count against shuffle.us directly (blocked by environment network policy at time of research).
+- [ ] Verify live provider list and exact game count against shuffle.us game lobby (JS-rendered; needs headless-browser pass).
 - [ ] Confirm Originals count and full title list.

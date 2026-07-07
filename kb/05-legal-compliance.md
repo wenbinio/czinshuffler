@@ -1,50 +1,64 @@
 # Shuffle.us — Legal, State Eligibility & Regulatory Environment
 
 > Part of the Shuffle.us knowledge base. See [README](../README.md) for index and sourcing notes.
-> Confidence markers: ✅ confirmed · 🟡 likely (single source) · ❓ unverified/conflicting.
+> **Verified 2026-07-07 against primary sources**, mirrored verbatim in [kb/legal/](legal/): [Sweepstakes Rules](legal/sweepstakes-rules.md), [Terms of Service](legal/terms-of-service.md) (last modified **June 2026**), [Responsible Social Play Policy](legal/responsible-social-gameplay.md) (May 2026), [Privacy Policy](legal/privacy-policy.md) (July 2025), [AMOE](legal/amoe.md), [Provably Fair](legal/provably-fair.md). ✅P = primary-source confirmed · 🟡 = secondary source.
 
-## The sweepstakes legal model
+## The sweepstakes legal model (✅P)
 
-- Dual-currency architecture: **GC** (play-for-fun, no cash value) + **SC** (sweepstakes entries, redeemable). Because SC is always obtainable **free** (login bonuses, giveaways, AMOE mail-in) and GC never cashes out, the product is structured as a prize promotion under state sweepstakes law rather than gambling. This is the industry-standard model, not unique to Shuffle. ✅ (model) / 🟡 (legal theory sourcing)
-- **AMOE**: registered users can mail a postcard for **3 SC per valid entry** — the "no purchase necessary" backbone. 🟡 [next.io](https://next.io/sweepstakes-casinos-us/shuffle-us/)
-- **Age**: 18+ or the jurisdiction's age of majority, whichever is higher. ✅ [sweepstakes rules](https://shuffle.us/info/sweepstakes-rules)
+- "NO PURCHASE OR PAYMENT NECESSARY TO PARTICIPATE" — the rules' opening line.
+- Sponsor/promoter: **Munyon Canyon Ltd**, which solely sponsors and administers the sweepstakes.
+- Dual currency: GC (social play only, redeemable only for more GC) + Shuffle Cash/"Sweeps Cash" (sweepstakes entries; never purchasable; won SC redeems at $1/SC, $100 minimum).
+- Free-entry backbone: account-creation bonus, daily bonuses, promotions, and **mail-in AMOE (2 SC per valid Request Card** to Munyon Canyon Limited, PO Box 9461, Portland ME 04104 — full spec in [02-currencies](02-currencies-purchases-redemptions.md)).
+- **Age**: 18+ or age of majority in the participant's jurisdiction, whichever is later. Participation void where prohibited.
 
-## State eligibility
+## State eligibility — ⚠️ the two primary sources disagree
 
-⚠️ **Sources conflict on the exact lists.** The best-supported reading is a **two-tier system**: some states are fully blocked from play; others may allow GC play but block SC redemption. Numbers cited range from 13 to ~19 excluded states. Verify against [shuffle.us/info/sweepstakes-rules](https://shuffle.us/info/sweepstakes-rules) and the [Restricted States help article](https://help.shuffle.us/en/articles/11882042-restricted-states-on-shuffle-us) before relying on any list.
+Both fetched 2026-07-07:
 
-### Excluded (most-cited ~18-state list, 🟡 cross-source convergence)
-Connecticut, Delaware, Georgia, Hawaii, Idaho, Kentucky, Louisiana, Maryland, Michigan, Montana, Nevada, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Washington, West Virginia — plus any others excluded at the company's discretion.
+### Sweepstakes Rules ([mirror](legal/sweepstakes-rules.md)) — 19 excluded states ✅P
+> Excluded: Connecticut, Delaware, **Florida**, **Georgia**, **Hawaii**, Idaho, Kentucky, **Louisiana**, **Maryland**, Michigan, Montana, Nevada, New Jersey, New York, Pennsylvania, Rhode Island, Vermont, Washington, West Virginia — "and any other states or jurisdictions the Company excludes in its sole discretion."
 
-- **California**: reportedly added after the 2025 state ban, making ~19. 🟡
-- **Florida**: special case — eligible per the help-center accepted list, but SC prize redemption reportedly capped at **$5,000 per prize**. ❓ (other sources list FL as excluded; likely a rules change over time)
+Yet the same rules retain a **Florida clause**: max SC prize redemption value $5,000 USD — contradicting FL's presence in the exclusion list.
 
-### Accepted (~35 states per help-center snippet, 🟡)
-AL, AK, AZ, AR, CO, FL, GA*, HI*, IL, IN, IA, KS, LA*, ME, MD*, MA, MN, MS, MO, NE, NH, NM, NC, ND, OH, OK, OR, SC, SD, TN, TX, UT, VA, WI, WY.
-\* Conflicts with the excluded list above — the discrepancy is unresolved from secondary sources (possibly play-vs-redeem tiers or list drift over time). ❓
+### Help center "Restricted States" article ([mirror](help-center/account-verification/restricted-states-on-shuffle-us.md)) — 33 accepted states ✅P
+> Accepted: AL, AK, AZ, AR, CO, **FL**, **GA**, **HI**, IA, KS, **LA**, ME, **MD**, MA, MN, MS, MO, NE, NH, NM, NC, ND, OH, OK, OR, SC, SD, TN, TX, UT, VA, WI, WY.
 
-## Regulatory environment 2025–2026 (industry-wide)
+Implied excluded (the other 17): CA, CT, DE, ID, **IL, IN**, KY, MI, MT, NV, NJ, NY, PA, RI, VT, WA, WV.
 
-| Development | Detail | Status |
-|---|---|---|
-| Montana SB 555 | First explicit sweepstakes-casino ban; signed May 12, 2025, effective Oct 1, 2025 | ✅ [iGB year in review](https://igamingbusiness.com/legal-compliance/2025-sweepstakes-casinos-year-in-review/) |
-| Connecticut, New Jersey | Explicit bans passed 2025 | 🟡 |
-| New York | AG crackdown announced June 6, 2025; SB 5935 signed Dec 2025 | 🟡 |
-| California | Ban signed (Newsom); described as removing ~20% of industry US revenue | 🟡 |
-| AG cease-and-desist wave | TN, MN, IL, LA, MD AGs sent C&Ds; TN AG confirmed ~40 letters (Dec 29, 2025), recipients complying/exiting | 🟡 |
-| Overall | ≥17 states have banned/restricted sweeps casinos as of 2026; more bills advancing in FL, OK, TN, VA | 🟡 |
-| Washington D.C. | Lawmakers weighing iGaming authorization that would explicitly ban dual-currency sweepstakes platforms | 🟡 [Washington City Paper](https://washingtoncitypaper.com/article/776640/shuffle-com-joins-the-sweepstakes-casino-boom/) |
+### Reconciliation
+- **Agree on excluding (12)**: CT, DE, ID, KY, MI, MT, NV, NJ, NY(–), PA, RI, VT, WA, WV *(rules also name NY; help list omits NY from accepted — so NY excluded in both; 13 agreed)*.
+- **Conflict (5)**: FL, GA, HI, LA, MD — excluded by rules, accepted by help center. The help center's FL treatment (eligible with a 5,000 SC/day redemption cap, per the [redemption limits article](help-center/payments/redemption-limits-and-requirements.md)) is internally consistent with the rules' FL cap clause, suggesting the **rules' exclusion list is the stale document** — but the rules are the legally controlling text. Flag to legal/compliance.
+- **Named only by help-center omission (3)**: CA, IL, IN (consistent with the 2025 California ban and IL AG C&D activity).
 
-**Shuffle-specific actions:** No lawsuit, AG action, or C&D naming Shuffle.us or Shuffle.com was found. (Search noise: "Shuffle Master" and "Shuffle Tech" litigation involve unrelated card-shuffler companies.) Absence of evidence ≠ evidence of absence — re-check periodically. ❓
+## Regulatory environment 2025–2026 (industry-wide, 🟡 unless noted)
 
-## Responsible gaming ("Shuffle Wise")
+| Development | Detail |
+|---|---|
+| Montana SB 555 | First explicit sweeps ban; signed May 12, 2025, effective Oct 1, 2025 ✅ |
+| Connecticut, New Jersey | Explicit bans passed 2025 |
+| New York | AG crackdown June 6, 2025; SB 5935 signed Dec 2025 |
+| California | Ban signed (Newsom), ~20% of industry US revenue removed |
+| AG C&D wave | TN, MN, IL, LA, MD; TN AG confirmed ~40 letters (Dec 2025), recipients complying/exiting |
+| Overall | ≥17 states banned/restricted as of 2026; bills advancing in FL, OK, TN, VA |
+| Washington D.C. | Weighing iGaming authorization with explicit dual-currency sweeps ban ([Washington City Paper](https://washingtoncitypaper.com/article/776640/shuffle-com-joins-the-sweepstakes-casino-boom/)) |
 
-- **Self-exclusion**: 1 day / 1 week / 1 month / 6 months / permanent; 24-hour cooldown; blocks play, purchases, and promo contact. 🟡 [responsible-social-gameplay](https://shuffle.us/info/responsible-social-gameplay)
-- **Limits**: daily/weekly/monthly purchase, wager, and loss limits ("Gambling limits" in Shuffle Wise); loss limit computed on net losses. 🟡
-- **Account closure**: via Shuffle Wise or email. ✅ [help article](https://help.shuffle.us/en/articles/11882027-how-to-close-your-account)
+**Shuffle-specific actions**: none found naming Shuffle.us or Shuffle.com (searches surfaced only unrelated "Shuffle Master"/"Shuffle Tech" card-shuffler litigation). Re-check periodically. ❓
+
+## Responsible gaming — "Shuffle Wise" (✅P, [policy mirror](legal/responsible-social-gameplay.md))
+
+- Self-exclusion: 1 day / 1 week / 1 month / 6 months / permanent; blocks play, purchases, promo contact.
+- Purchase/wager/loss limits: daily, weekly, monthly; loss limit on net losses.
+- Account closure via Shuffle Wise or email ([help article](help-center/general-information/how-to-close-your-account.md)).
+
+## Fairness & other compliance surfaces (✅P)
+
+- **Provably Fair** system documented at [shuffle.us/info/provably-fair](legal/provably-fair.md) + a 5-article help collection ([mirror](help-center/INDEX.md)).
+- Game edge is disclosed per game ([FAQ article](help-center/faq/where-can-i-find-the-edge-of-the-game.md)).
+- Shuffle.us explicitly disclaims being a financial institution ([help article](help-center/general-information/shuffle-us-is-not-a-financial-institution.md)).
+- Anti-abuse: automated/systematic play prohibited; one account per person; VPN/geo evasion prohibited; requests must be posted from the verified state (AMOE).
 
 ## Open items
 
-- [ ] Resolve the excluded-vs-accepted state contradiction (GA/HI/LA/MD/FL) against live sweepstakes rules — highest-priority verification.
-- [ ] Confirm California exclusion status on the live site.
-- [ ] Periodic re-check for Shuffle-named regulatory actions (industry is in active-crackdown phase).
+- [ ] **Escalate the rules-vs-help-center state-list conflict (FL/GA/HI/LA/MD)** — the controlling legal doc and the customer-facing doc disagree.
+- [ ] Rules page has no visible "last modified" date — confirm versioning internally.
+- [ ] Periodic re-check for Shuffle-named regulatory actions.

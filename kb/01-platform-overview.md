@@ -45,7 +45,13 @@
 - Regulatory risk: D.C. lawmakers reportedly weighing legislation that would authorize real-money iGaming while **banning dual-currency sweepstakes platforms** like Shuffle.us. 🟡 [Washington City Paper](https://washingtoncitypaper.com/article/776640/shuffle-com-joins-the-sweepstakes-casino-boom/)
 - Gap: no independent traffic/revenue data found; coverage is dominated by affiliate promo content.
 
+## Primary-source confirmations (added 2026-07-07)
+
+- **Munyon Canyon Ltd** confirmed as sole sponsor/administrator in the [Sweepstakes Rules mirror](legal/sweepstakes-rules.md); US mail-in address: PO Box 9461, Portland ME 04104. ✅P
+- Terms of Service last modified **June 2026** ([mirror](legal/terms-of-service.md)). ✅P
+- Support email: **support@shuffle.us**. ✅P
+- State lists verified — and the two primary sources **disagree** (rules exclude FL/GA/HI/LA/MD; help center accepts them). Details in [05-legal-compliance](05-legal-compliance.md).
+
 ## Open items
 
-- [ ] Primary-source confirmation of Munyon Canyon ↔ Natural Nine corporate linkage.
-- [ ] Verify current excluded-state list from shuffle.us/info/sweepstakes-rules directly.
+- [ ] Primary-source confirmation of Munyon Canyon ↔ Natural Nine corporate linkage (not stated in T&Cs mirror reviewed so far).
